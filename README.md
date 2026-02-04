@@ -1,2 +1,4 @@
-# pa11y-accessibility
-Automated accessibility audits (WCAG 2.2 AA) for web applications using Pa11y and CI pipelines.
+# Accessibility Audit
+
+Automated accessibility audits using Pa11y,
+aligned with WCAG 2.1 AA.
